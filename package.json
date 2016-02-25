@@ -36,6 +36,6 @@
 
   "dependencies": {
     "cylon":   "~1.1.0",
-    "aerogel": "0.0.5"
+    "aerogel": "https://github.com/aroc/aerogel.git"
   }
 }
